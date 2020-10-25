@@ -1,3 +1,5 @@
+### This is an assignment project. It is an attractive registration form built with React and styled with CSS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
